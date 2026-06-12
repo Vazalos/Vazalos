@@ -19,6 +19,9 @@ Currently using:
     <img alt="C++" src="https://img.shields.io/badge/C++-2e3440.svg?&logo=cplusplus&logoColor=07a4ed">
 </picture>
 
+<br>
+<br>
+
 Have used extensively in the past:
 <!-- Java -->
 <picture>
@@ -48,7 +51,9 @@ Have used extensively in the past:
     <img alt="CSS" src="https://img.shields.io/badge/CSS-2e3440.svg?&logo=css3&logoColor=4382b4">
 </picture>
 
-Contact Me
+<br>
+
+## Contact Me
 <p align="left">
   <a href="mailto:d.n.roque@gmail.com">
     <picture>
@@ -65,7 +70,6 @@ Contact Me
     </picture>
   </a>&nbsp;
 </p>
-          
           
 <!--
 **Vazalos/Vazalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
