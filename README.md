@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I am David Roque 👋
+
+I'm a software development student with a background in multimedia, graphic design, and illustration.
+
+I’m currently working on finishing Milestone 5 of 42 Porto, with the IRC project.
+
+I use extensively:
+https://img.shields.io/npm/v/npm.svg?logo=C
+https://img.shields.io/npm/v/npm.svg?logo=cplusplus
 
 <!--
 **Vazalos/Vazalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
